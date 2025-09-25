@@ -1,8 +1,5 @@
 # econophysics-dissertation
 MSc Dissertation: A Statistical Mechanics Approach to Stock Market Dynamics — Modeling Price Fluctuations, Volatility, and Entropy Diagnostics (1992–2025).
-# Econophysics Dissertation
-
-This repository contains my MSc dissertation and supporting code.
 
 ## Files
 - 📄 [Dissertation PDF](docs/A_Statistical_Mechanics_Approach_to_Stock_Market_Dynamics__Modeling_Price_Fluctuations_and_Volatility.pdf)  
